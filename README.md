@@ -54,7 +54,7 @@ If you want to run, modify, or extend this project, follow this documentation:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/pratyush06-aec/booking-reservation-app.git
+   git clone https://github.com/krish-crlt/booking-reservation-app.git
    cd booking-reservation-app
    ```
 
