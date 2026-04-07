@@ -8,6 +8,8 @@
 
 ![SlotChain Landing](docs/assets/landing.png)
 
+CONTRACT ID="CAA35ZY3ODUFMTZNHGD4BUTCEGYQJF5V5VHQ34DNA4OWPNRDRJTIWWP4"
+
 ## Overview
 
 **SlotChain** is a decentralized scheduling and booking application built on the **Stellar network using Soroban Smart Contracts**. It removes intermediaries from the booking process, allowing service providers to list un-custodial time slots directly on-chain and giving customers the ability to book appointments securely via their Web3 wallets.
